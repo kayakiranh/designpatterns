@@ -1,0 +1,15 @@
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\bin\Debug\net5.0\AbstractFactoryDesignPattern.deps.json
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\bin\Debug\net5.0\AbstractFactoryDesignPattern.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\bin\Debug\net5.0\AbstractFactoryDesignPattern.pdb
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\bin\Debug\net5.0\Entities.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\bin\Debug\net5.0\Entities.pdb
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\obj\Debug\net5.0\AbstractFactoryDesignPattern.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\obj\Debug\net5.0\AbstractFactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\obj\Debug\net5.0\AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\obj\Debug\net5.0\AbstractFactoryDesignPattern.AssemblyInfo.cs
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\obj\Debug\net5.0\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\obj\Debug\net5.0\AbstractFactoryDesignPattern.csproj.CopyComplete
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\obj\Debug\net5.0\AbstractFactoryDesignPattern.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\obj\Debug\net5.0\refint\AbstractFactoryDesignPattern.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\obj\Debug\net5.0\AbstractFactoryDesignPattern.pdb
+C:\Users\husey\source\repos\DesignPatternsDemo\AbstractDesignPattern\obj\Debug\net5.0\ref\AbstractFactoryDesignPattern.dll

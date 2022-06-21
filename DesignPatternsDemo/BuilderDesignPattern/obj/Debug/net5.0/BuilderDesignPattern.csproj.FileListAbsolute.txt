@@ -1,0 +1,15 @@
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPattern.deps.json
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPattern.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPattern.pdb
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\bin\Debug\net5.0\Entities.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\bin\Debug\net5.0\Entities.pdb
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.AssemblyInfoInputs.cache
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.AssemblyInfo.cs
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.csproj.CopyComplete
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\obj\Debug\net5.0\refint\BuilderDesignPattern.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPattern.pdb
+C:\Users\husey\source\repos\DesignPatternsDemo\BuilderDesignPattern\obj\Debug\net5.0\ref\BuilderDesignPattern.dll

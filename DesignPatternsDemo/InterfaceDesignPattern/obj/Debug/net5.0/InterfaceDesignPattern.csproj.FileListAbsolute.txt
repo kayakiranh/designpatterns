@@ -1,0 +1,15 @@
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\bin\Debug\net5.0\InterfaceDesignPattern.deps.json
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\bin\Debug\net5.0\InterfaceDesignPattern.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\bin\Debug\net5.0\InterfaceDesignPattern.pdb
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\bin\Debug\net5.0\Entities.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\bin\Debug\net5.0\Entities.pdb
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\obj\Debug\net5.0\InterfaceDesignPattern.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\obj\Debug\net5.0\InterfaceDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\obj\Debug\net5.0\InterfaceDesignPattern.AssemblyInfoInputs.cache
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\obj\Debug\net5.0\InterfaceDesignPattern.AssemblyInfo.cs
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\obj\Debug\net5.0\InterfaceDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\obj\Debug\net5.0\InterfaceDesignPattern.csproj.CopyComplete
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\obj\Debug\net5.0\InterfaceDesignPattern.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\obj\Debug\net5.0\refint\InterfaceDesignPattern.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\obj\Debug\net5.0\InterfaceDesignPattern.pdb
+C:\Users\husey\source\repos\DesignPatternsDemo\InterfaceDesignPattern\obj\Debug\net5.0\ref\InterfaceDesignPattern.dll

@@ -1,0 +1,15 @@
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.deps.json
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.pdb
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\bin\Debug\net5.0\Entities.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\bin\Debug\net5.0\Entities.pdb
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.AssemblyInfoInputs.cache
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.AssemblyInfo.cs
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.csproj.CopyComplete
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\obj\Debug\net5.0\refint\SingletonDesignPattern.dll
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.pdb
+C:\Users\husey\source\repos\DesignPatternsDemo\SingletonDesignPattern\obj\Debug\net5.0\ref\SingletonDesignPattern.dll
